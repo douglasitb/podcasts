@@ -15,3 +15,4 @@
 - Novidades nas Ides de Desenvovimento  (Netbens 7.3.1)
 - Ambiente de estudo com PHP - Configuração de servidores locais de produção e Desenvolvimento
 - Ambiente academico em PHP, cultura de desenvolver aplicações com codigos não estruturados
+- Controle de versão GIT - O Suporte que a IDE dá para o desenvolvedor (GIT Para Leigos!!!!) 
